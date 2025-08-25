@@ -46,6 +46,8 @@ streamlit run app.py
 
 The application will be available at `http://localhost:8501` by default.
 
+## deploy URL:https://flexible-learning-path.streamlit.app/
+
 ## Usage
 
 1. Enter your Google ai studio API key and Pipedream URLs in the sidebar
